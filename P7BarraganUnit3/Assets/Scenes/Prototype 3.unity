@@ -496,7 +496,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff510b460f5eba7419ced7bc583dc4ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstaclePrefab: {fileID: 2632419364279754031}
+  obstaclePrefab: {fileID: 5440594135643396204, guid: 61c73898c961b9044ba331499703c10d, type: 3}
 --- !u!4 &1263282542
 Transform:
   m_ObjectHideFlags: 0
@@ -526,7 +526,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400066, guid: 70ab0d3e71b54ac4bbd703cb0a686c4d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.1652026
+      value: 0.09
       objectReference: {fileID: 0}
     - target: {fileID: 400066, guid: 70ab0d3e71b54ac4bbd703cb0a686c4d, type: 3}
       propertyPath: m_LocalPosition.y
@@ -534,7 +534,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400066, guid: 70ab0d3e71b54ac4bbd703cb0a686c4d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.5323669
+      value: -0.26
       objectReference: {fileID: 0}
     - target: {fileID: 400066, guid: 70ab0d3e71b54ac4bbd703cb0a686c4d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -816,11 +816,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61c73898c961b9044ba331499703c10d, type: 3}
---- !u!1 &2632419364279754031 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5440594135643396204, guid: 61c73898c961b9044ba331499703c10d, type: 3}
-  m_PrefabInstance: {fileID: 1489086857514179887}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
